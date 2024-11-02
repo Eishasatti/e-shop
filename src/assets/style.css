@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('./alsscrp.ttf') format('truetype');
+  }
+  
+  .custom-font {
+    font-family: 'CustomFont', sans-serif;
+    font-weight: 400;
+    font-size: x-large;
+  }
+  
